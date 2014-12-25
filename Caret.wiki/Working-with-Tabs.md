@@ -1,0 +1,6 @@
+Like most serious graphical text editors, Caret's workflow is based around tabs, with one document per tab. For the most part, this is a natural extension of the tab-based flow that you are probably already familiar with in the browser. Here are a few tips to be aware of:
+
+* Caret tabs can be re-ordered by dragging them around. If you drag the tab out of the window, however, it will not open a new Caret window (multi-window support is not yet available).
+* Pressing Ctrl-tab will flip between your tabs. Unlike the browser, tabs are activated in the order of last-use, which is handy for when you want to switch between two files. If you want to continue flipping between tabs, hold the Ctrl key down while pressing tab repeatedly to keep moving through the stack.
+* Tabs can have their syntax mode set using the drop-down menu in the lower-right corner (it defaults to "plain text" but will attempt to guess based on file extension). You can also set the theme from the second pull-down, but this is application-wide and will apply to all tabs.
+* It's easy to switch between tabs using the universal go-to palette. Press Ctrl-G to activate the palette, then start typing a filename and press Enter. This is just the first of many tricks available through the go-to palette.
